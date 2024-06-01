@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/08_chardev_framework/chardev.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/Gits/learn_projects/08_chardev_framework/chardev.ko /home/pi/Gits/learn_projects/08_chardev_framework/chardev.o /home/pi/Gits/learn_projects/08_chardev_framework/chardev.mod.o;  true

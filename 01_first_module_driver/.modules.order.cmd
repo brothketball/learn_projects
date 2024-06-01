@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/01_first_module_driver/modules.order := {   echo /home/pi/Gits/learn_projects/01_first_module_driver/hello_world.ko; :; } | awk '!x[$$0]++' - > /home/pi/Gits/learn_projects/01_first_module_driver/modules.order

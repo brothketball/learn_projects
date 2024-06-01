@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/parameter/parameter.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/Gits/learn_projects/parameter/parameter.ko /home/pi/Gits/learn_projects/parameter/parameter.o /home/pi/Gits/learn_projects/parameter/parameter.mod.o;  true

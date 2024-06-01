@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/09_platform_driver/driver/led_driver.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/Gits/learn_projects/09_platform_driver/driver/led_driver.ko /home/pi/Gits/learn_projects/09_platform_driver/driver/led_driver.o /home/pi/Gits/learn_projects/09_platform_driver/driver/led_driver.mod.o;  true

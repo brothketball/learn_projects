@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/09_platform_driver/driver/led_driver.mod := { echo  /home/pi/Gits/learn_projects/09_platform_driver/driver/led_driver.o;  echo; } > /home/pi/Gits/learn_projects/09_platform_driver/driver/led_driver.mod

@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/parameter/modules.order := {   echo /home/pi/Gits/learn_projects/parameter/parameter.ko; :; } | awk '!x[$$0]++' - > /home/pi/Gits/learn_projects/parameter/modules.order

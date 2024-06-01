@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/11_devicetree_driver/Module.symvers := sed 's/ko$$/o/' /home/pi/Gits/learn_projects/11_devicetree_driver/modules.order | scripts/mod/modpost -m -a   -o /home/pi/Gits/learn_projects/11_devicetree_driver/Module.symvers -e -i Module.symvers   -T -

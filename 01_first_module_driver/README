@@ -1,0 +1,7 @@
+make -C /lib/modules/$(uname -r)/build M=/home/peng/driver/1/module modules
+
+-C 表示到存放内核的目录执行其Makefile，
+
+M=$(PWD)表示返回到当前目录，
+
+modules表示编译成模块的意思

@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/misc/mymisc.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/Gits/learn_projects/misc/mymisc.ko /home/pi/Gits/learn_projects/misc/mymisc.o /home/pi/Gits/learn_projects/misc/mymisc.mod.o;  true

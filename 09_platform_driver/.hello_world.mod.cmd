@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/01_first_module_driver/hello_world.mod := { echo  /home/pi/Gits/learn_projects/01_first_module_driver/hello_world.o;  echo; } > /home/pi/Gits/learn_projects/01_first_module_driver/hello_world.mod

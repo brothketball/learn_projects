@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/08_chardev_framework/modules.order := {   echo /home/pi/Gits/learn_projects/08_chardev_framework/chardev.ko; :; } | awk '!x[$$0]++' - > /home/pi/Gits/learn_projects/08_chardev_framework/modules.order

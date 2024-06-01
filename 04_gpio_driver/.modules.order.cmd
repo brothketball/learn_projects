@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/gpio_driver/modules.order := {   echo /home/pi/Gits/learn_projects/gpio_driver/gpio_driver.ko; :; } | awk '!x[$$0]++' - > /home/pi/Gits/learn_projects/gpio_driver/modules.order

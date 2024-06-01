@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/file_operation/file_operation.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/Gits/learn_projects/file_operation/file_operation.ko /home/pi/Gits/learn_projects/file_operation/file_operation.o /home/pi/Gits/learn_projects/file_operation/file_operation.mod.o;  true

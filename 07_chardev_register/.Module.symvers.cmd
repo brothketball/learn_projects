@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/07_chardev_register/Module.symvers := sed 's/ko$$/o/' /home/pi/Gits/learn_projects/07_chardev_register/modules.order | scripts/mod/modpost -m -a   -o /home/pi/Gits/learn_projects/07_chardev_register/Module.symvers -e -i Module.symvers   -T -

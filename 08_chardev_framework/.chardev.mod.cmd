@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/08_chardev_framework/chardev.mod := { echo  /home/pi/Gits/learn_projects/08_chardev_framework/chardev.o;  echo; } > /home/pi/Gits/learn_projects/08_chardev_framework/chardev.mod

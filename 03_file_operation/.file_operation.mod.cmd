@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/file_operation/file_operation.mod := { echo  /home/pi/Gits/learn_projects/file_operation/file_operation.o;  echo; } > /home/pi/Gits/learn_projects/file_operation/file_operation.mod

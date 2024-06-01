@@ -1,0 +1,1 @@
+cmd_/home/pi/Gits/learn_projects/11_devicetree_driver/modules.order := {   echo /home/pi/Gits/learn_projects/11_devicetree_driver/led_driver.ko; :; } | awk '!x[$$0]++' - > /home/pi/Gits/learn_projects/11_devicetree_driver/modules.order
